@@ -19,4 +19,4 @@ hello kok! hello git!
 hello kok! hello git!
 hello kok! hello git!
 hello kok! hello git!
-hello kok! hello git!
+hello kok! hello git! hot-fix!
